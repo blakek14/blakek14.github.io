@@ -171,6 +171,7 @@ input {
   font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
+	box-sizing: border-box;
 }
 
 textarea {
@@ -181,4 +182,5 @@ textarea {
   font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
+	box-sizing: border-box;
 }
